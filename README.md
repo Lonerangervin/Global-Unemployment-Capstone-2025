@@ -36,21 +36,10 @@ COVID-19 Impact: Evaluated 2019–2021 unemployment spikes, e.g., Kenya’s fema
 
 Visualization: Developed Power BI dashboards to visualize rankings and trends for policy recommendations.
 
-Qualifications Demonstrated
 
 
 
 
-
-Experience: Applied 1–3 years of freelance data evaluation, ensuring 95%+ accuracy.
-
-
-
-Skills: Proficient in SQL, Power BI, Python (Pandas, NumPy), and qualitative/quantitative research.
-
-
-
-Education: Utilized ALX Data Analytics (2025) and B.A. in Criminology (2020).
 
 Outcomes & Impact
 
