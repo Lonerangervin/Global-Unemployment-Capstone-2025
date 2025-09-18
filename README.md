@@ -10,7 +10,7 @@ Tools Used: SQL (MySQL), Power BI, Jupyter Notebook, Excel
 
 Project Overview
 
-The Global Unemployment Capstone is a data analytics project analyzing unemployment trends from 2010–2023 to identify patterns and inform policymakers. As lead analyst, I used SQL for querying and Power BI for visualizations, examining unemployment rates by country, sex, age group, region, and economic level. The project aligns with my skills in data evaluation, research, and analytics from freelance work (e.g., Appen, Upwork).
+The Global Unemployment Capstone is a data analytics project analyzing unemployment trends from 2014–2024 to identify patterns and inform policymakers. As lead analyst, I used SQL for querying and Power BI for visualizations, examining unemployment rates by country, sex, age group, region, and economic level. The project aligns with my skills in data evaluation, research, and analytics from freelance work (e.g., Appen, Upwork).
 
 Key Responsibilities
 
