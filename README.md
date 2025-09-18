@@ -6,7 +6,7 @@ Global Unemployment Capstone Project
 Location: Remote, Self-Initiated (Nairobi, Kenya)
 Type: Capstone Project
 Duration: 2025
-Tools Used: SQL (MySQL), Power BI, Jupyter Notebook
+Tools Used: SQL (MySQL), Power BI, Jupyter Notebook, Excel
 
 Project Overview
 
